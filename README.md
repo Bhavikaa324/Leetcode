@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavikaa324/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/Bhavikaa324/Leetcode/tree/master/0051-n-queens) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavikaa324/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -157,5 +158,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Bhavikaa324/Leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Bhavikaa324/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
