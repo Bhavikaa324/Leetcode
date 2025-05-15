@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Bhavikaa324/Leetcode/tree/master/0089-gray-code) |
 | [0728-self-dividing-numbers](https://github.com/Bhavikaa324/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
@@ -126,6 +127,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Bhavikaa324/Leetcode/tree/master/0089-gray-code) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhavikaa324/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Bhavikaa324/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
