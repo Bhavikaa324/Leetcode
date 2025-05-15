@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Bhavikaa324/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3194-find-words-containing-character](https://github.com/Bhavikaa324/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/Bhavikaa324/Leetcode/tree/master/3194-find-words-containing-character) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Bhavikaa324/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
