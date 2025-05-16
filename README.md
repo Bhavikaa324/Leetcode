@@ -25,6 +25,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Bhavikaa324/Leetcode/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/Bhavikaa324/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhavikaa324/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavikaa324/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -212,4 +213,5 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Bhavikaa324/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0747-min-cost-climbing-stairs](https://github.com/Bhavikaa324/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
