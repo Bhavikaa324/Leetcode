@@ -18,6 +18,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/Bhavikaa324/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhavikaa324/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -35,6 +36,7 @@
 | [0141-linked-list-cycle](https://github.com/Bhavikaa324/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
