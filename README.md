@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhavikaa324/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -31,6 +32,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Bhavikaa324/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Bhavikaa324/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
@@ -71,6 +73,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhavikaa324/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
@@ -99,6 +102,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhavikaa324/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Bhavikaa324/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Search
 |  |
@@ -109,6 +113,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavikaa324/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
