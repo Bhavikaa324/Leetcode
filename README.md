@@ -68,6 +68,7 @@
 | [0050-powx-n](https://github.com/Bhavikaa324/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Bhavikaa324/Leetcode/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/Bhavikaa324/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0537-complex-number-multiplication](https://github.com/Bhavikaa324/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavikaa324/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Bhavikaa324/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -76,12 +77,14 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhavikaa324/Leetcode/tree/master/0049-group-anagrams) |
+| [0537-complex-number-multiplication](https://github.com/Bhavikaa324/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhavikaa324/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhavikaa324/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3194-find-words-containing-character](https://github.com/Bhavikaa324/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/Bhavikaa324/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [2058-concatenation-of-array](https://github.com/Bhavikaa324/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
