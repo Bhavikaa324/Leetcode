@@ -67,6 +67,7 @@
 | [0009-palindrome-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Bhavikaa324/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Bhavikaa324/Leetcode/tree/master/0089-gray-code) |
+| [0319-bulb-switcher](https://github.com/Bhavikaa324/Leetcode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Bhavikaa324/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0537-complex-number-multiplication](https://github.com/Bhavikaa324/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavikaa324/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [0546-remove-boxes](https://github.com/Bhavikaa324/Leetcode/tree/master/0546-remove-boxes) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Bhavikaa324/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
