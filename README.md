@@ -78,6 +78,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhavikaa324/Leetcode/tree/master/0049-group-anagrams) |
 | [0537-complex-number-multiplication](https://github.com/Bhavikaa324/Leetcode/tree/master/0537-complex-number-multiplication) |
+| [0647-palindromic-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhavikaa324/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhavikaa324/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3194-find-words-containing-character](https://github.com/Bhavikaa324/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -137,6 +138,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Bhavikaa324/Leetcode/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Search
 |  |
@@ -236,6 +238,7 @@
 | [0064-minimum-path-sum](https://github.com/Bhavikaa324/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/Bhavikaa324/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0546-remove-boxes](https://github.com/Bhavikaa324/Leetcode/tree/master/0546-remove-boxes) |
+| [0647-palindromic-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhavikaa324/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
