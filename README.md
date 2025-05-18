@@ -83,6 +83,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bhavikaa324/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/Bhavikaa324/Leetcode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2481-strictly-palindromic-number](https://github.com/Bhavikaa324/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Bhavikaa324/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/Bhavikaa324/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2481-strictly-palindromic-number](https://github.com/Bhavikaa324/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Search
 |  |
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Bhavikaa324/Leetcode/tree/master/0319-bulb-switcher) |
+| [2481-strictly-palindromic-number](https://github.com/Bhavikaa324/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Geometry
 |  |
 | ------- |
