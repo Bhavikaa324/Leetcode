@@ -33,6 +33,7 @@
 | [0724-find-pivot-index](https://github.com/Bhavikaa324/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhavikaa324/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhavikaa324/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Bhavikaa324/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavikaa324/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -167,6 +168,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
