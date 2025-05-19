@@ -47,6 +47,7 @@
 | [2478-longest-nice-subarray](https://github.com/Bhavikaa324/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3194-find-words-containing-character](https://github.com/Bhavikaa324/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@
 | [1448-maximum-69-number](https://github.com/Bhavikaa324/Leetcode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2481-strictly-palindromic-number](https://github.com/Bhavikaa324/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
