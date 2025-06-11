@@ -104,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhavikaa324/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Bhavikaa324/Leetcode/tree/master/0049-group-anagrams) |
 | [0537-complex-number-multiplication](https://github.com/Bhavikaa324/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -268,6 +269,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhavikaa324/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Bhavikaa324/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Bhavikaa324/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhavikaa324/Leetcode/tree/master/0232-implement-queue-using-stacks) |
