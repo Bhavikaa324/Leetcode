@@ -80,12 +80,14 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhavikaa324/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavikaa324/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhavikaa324/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2481-strictly-palindromic-number](https://github.com/Bhavikaa324/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhavikaa324/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Bhavikaa324/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3194-find-words-containing-character](https://github.com/Bhavikaa324/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhavikaa324/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |
