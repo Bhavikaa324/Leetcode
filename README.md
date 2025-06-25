@@ -369,4 +369,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhavikaa324/Leetcode/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Bhavikaa324/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Bhavikaa324/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
