@@ -60,6 +60,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/Bhavikaa324/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3194-find-words-containing-character](https://github.com/Bhavikaa324/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhavikaa324/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
@@ -114,6 +115,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhavikaa324/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2481-strictly-palindromic-number](https://github.com/Bhavikaa324/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhavikaa324/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -165,6 +167,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhavikaa324/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -319,6 +322,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Bhavikaa324/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhavikaa324/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhavikaa324/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Design
 |  |
 | ------- |
@@ -335,6 +339,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhavikaa324/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhavikaa324/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Backtracking
 |  |
@@ -389,6 +394,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhavikaa324/Leetcode/tree/master/0042-trapping-rain-water) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
 | ------- |
@@ -407,4 +413,8 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhavikaa324/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhavikaa324/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Bhavikaa324/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
