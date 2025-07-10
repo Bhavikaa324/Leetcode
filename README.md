@@ -62,6 +62,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3194-find-words-containing-character](https://github.com/Bhavikaa324/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/Bhavikaa324/Leetcode/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhavikaa324/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -141,6 +142,7 @@
 | [2058-concatenation-of-array](https://github.com/Bhavikaa324/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhavikaa324/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3226-minimum-number-game](https://github.com/Bhavikaa324/Leetcode/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
@@ -168,6 +170,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3226-minimum-number-game](https://github.com/Bhavikaa324/Leetcode/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhavikaa324/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -179,6 +182,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhavikaa324/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3226-minimum-number-game](https://github.com/Bhavikaa324/Leetcode/tree/master/3226-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
