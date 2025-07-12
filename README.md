@@ -119,6 +119,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhavikaa324/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/Bhavikaa324/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2752-sum-multiples](https://github.com/Bhavikaa324/Leetcode/tree/master/2752-sum-multiples) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
