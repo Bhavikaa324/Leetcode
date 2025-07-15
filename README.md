@@ -50,6 +50,7 @@
 | [1349-check-if-it-is-a-straight-line](https://github.com/Bhavikaa324/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavikaa324/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhavikaa324/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhavikaa324/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -84,6 +85,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhavikaa324/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhavikaa324/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhavikaa324/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -346,6 +348,7 @@
 | [0455-assign-cookies](https://github.com/Bhavikaa324/Leetcode/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhavikaa324/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhavikaa324/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhavikaa324/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/Bhavikaa324/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhavikaa324/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
