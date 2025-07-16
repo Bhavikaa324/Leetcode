@@ -63,6 +63,7 @@
 | [2478-longest-nice-subarray](https://github.com/Bhavikaa324/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2737-row-with-maximum-ones](https://github.com/Bhavikaa324/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavikaa324/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3194-find-words-containing-character](https://github.com/Bhavikaa324/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Bhavikaa324/Leetcode/tree/master/3226-minimum-number-game) |
@@ -89,6 +90,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavikaa324/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhavikaa324/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -313,6 +315,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Bhavikaa324/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2478-longest-nice-subarray](https://github.com/Bhavikaa324/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavikaa324/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
