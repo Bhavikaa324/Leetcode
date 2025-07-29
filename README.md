@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/Bhavikaa324/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Bhavikaa324/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Bhavikaa324/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Bhavikaa324/Leetcode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Bhavikaa324/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Bhavikaa324/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Bhavikaa324/Leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Bhavikaa324/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Bhavikaa324/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -367,6 +369,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Bhavikaa324/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Bhavikaa324/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Bhavikaa324/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Bhavikaa324/Leetcode/tree/master/0089-gray-code) |
