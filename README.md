@@ -112,6 +112,7 @@
 | [0009-palindrome-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Bhavikaa324/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Bhavikaa324/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Bhavikaa324/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Bhavikaa324/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Bhavikaa324/Leetcode/tree/master/0319-bulb-switcher) |
@@ -389,6 +390,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhavikaa324/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Bhavikaa324/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Bhavikaa324/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavikaa324/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Bhavikaa324/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0413-arithmetic-slices](https://github.com/Bhavikaa324/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -398,6 +400,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bhavikaa324/Leetcode/tree/master/0070-climbing-stairs) |
 | [0546-remove-boxes](https://github.com/Bhavikaa324/Leetcode/tree/master/0546-remove-boxes) |
 ## Brainteaser
 |  |
