@@ -455,4 +455,8 @@
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Bhavikaa324/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
