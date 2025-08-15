@@ -117,6 +117,7 @@
 | [0189-rotate-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Bhavikaa324/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Bhavikaa324/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Bhavikaa324/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Bhavikaa324/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0537-complex-number-multiplication](https://github.com/Bhavikaa324/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavikaa324/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -322,6 +323,7 @@
 | [0090-subsets-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Bhavikaa324/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Bhavikaa324/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2478-longest-nice-subarray](https://github.com/Bhavikaa324/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavikaa324/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -386,6 +388,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bhavikaa324/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Bhavikaa324/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Bhavikaa324/Leetcode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
