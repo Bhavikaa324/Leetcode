@@ -134,6 +134,7 @@
 | [2481-strictly-palindromic-number](https://github.com/Bhavikaa324/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2752-sum-multiples](https://github.com/Bhavikaa324/Leetcode/tree/master/2752-sum-multiples) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Bhavikaa324/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Bhavikaa324/Leetcode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhavikaa324/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
