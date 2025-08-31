@@ -87,6 +87,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Bhavikaa324/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavikaa324/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Bhavikaa324/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0290-word-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -149,6 +150,7 @@
 | [0020-valid-parentheses](https://github.com/Bhavikaa324/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Bhavikaa324/Leetcode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Bhavikaa324/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0290-word-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0290-word-pattern) |
 | [0537-complex-number-multiplication](https://github.com/Bhavikaa324/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhavikaa324/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
