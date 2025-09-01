@@ -31,6 +31,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavikaa324/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Bhavikaa324/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -88,6 +89,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Bhavikaa324/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavikaa324/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Bhavikaa324/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -123,6 +125,7 @@
 | [0070-climbing-stairs](https://github.com/Bhavikaa324/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Bhavikaa324/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Bhavikaa324/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Bhavikaa324/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bhavikaa324/Leetcode/tree/master/0342-power-of-four) |
@@ -190,6 +193,7 @@
 | [0049-group-anagrams](https://github.com/Bhavikaa324/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Bhavikaa324/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -265,6 +269,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavikaa324/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -339,6 +344,7 @@
 | [0089-gray-code](https://github.com/Bhavikaa324/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavikaa324/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Bhavikaa324/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Bhavikaa324/Leetcode/tree/master/0371-sum-of-two-integers) |
