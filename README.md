@@ -53,6 +53,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Bhavikaa324/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhavikaa324/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0926-find-and-replace-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhavikaa324/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/Bhavikaa324/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhavikaa324/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -97,6 +98,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhavikaa324/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0926-find-and-replace-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhavikaa324/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhavikaa324/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -160,6 +162,7 @@
 | [0290-word-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0290-word-pattern) |
 | [0537-complex-number-multiplication](https://github.com/Bhavikaa324/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0926-find-and-replace-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhavikaa324/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
