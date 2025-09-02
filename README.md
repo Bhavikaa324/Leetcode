@@ -102,6 +102,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhavikaa324/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bhavikaa324/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavikaa324/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavikaa324/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bhavikaa324/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhavikaa324/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -160,6 +162,7 @@
 | [0647-palindromic-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhavikaa324/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhavikaa324/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhavikaa324/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhavikaa324/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
