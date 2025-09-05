@@ -164,6 +164,7 @@
 | [0290-word-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0290-word-pattern) |
 | [0537-complex-number-multiplication](https://github.com/Bhavikaa324/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/Bhavikaa324/Leetcode/tree/master/0812-rotate-string) |
 | [0926-find-and-replace-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhavikaa324/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -497,4 +498,8 @@
 | [1161-project-employees-i](https://github.com/Bhavikaa324/Leetcode/tree/master/1161-project-employees-i) |
 | [1415-students-and-examinations](https://github.com/Bhavikaa324/Leetcode/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/Bhavikaa324/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Bhavikaa324/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
