@@ -490,6 +490,7 @@
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Bhavikaa324/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Bhavikaa324/Leetcode/tree/master/0584-find-customer-referee) |
 | [1161-project-employees-i](https://github.com/Bhavikaa324/Leetcode/tree/master/1161-project-employees-i) |
 | [1415-students-and-examinations](https://github.com/Bhavikaa324/Leetcode/tree/master/1415-students-and-examinations) |
