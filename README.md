@@ -177,6 +177,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Bhavikaa324/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhavikaa324/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2887-sort-vowels-in-a-string](https://github.com/Bhavikaa324/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Bhavikaa324/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/Bhavikaa324/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -221,6 +222,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2887-sort-vowels-in-a-string](https://github.com/Bhavikaa324/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3226-minimum-number-game](https://github.com/Bhavikaa324/Leetcode/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhavikaa324/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
