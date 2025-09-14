@@ -48,6 +48,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavikaa324/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhavikaa324/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhavikaa324/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Bhavikaa324/Leetcode/tree/master/0724-find-pivot-index) |
@@ -217,6 +218,7 @@
 | [0455-assign-cookies](https://github.com/Bhavikaa324/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavikaa324/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhavikaa324/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhavikaa324/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -235,6 +237,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhavikaa324/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3226-minimum-number-game](https://github.com/Bhavikaa324/Leetcode/tree/master/3226-minimum-number-game) |
 ## Quickselect
@@ -272,6 +275,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Bhavikaa324/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Bhavikaa324/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/Bhavikaa324/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -295,6 +299,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavikaa324/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhavikaa324/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -307,6 +312,7 @@
 | [0413-arithmetic-slices](https://github.com/Bhavikaa324/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhavikaa324/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhavikaa324/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Bhavikaa324/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhavikaa324/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
