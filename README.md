@@ -102,6 +102,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhavikaa324/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0926-find-and-replace-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhavikaa324/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Bhavikaa324/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhavikaa324/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -172,6 +173,7 @@
 | [0812-rotate-string](https://github.com/Bhavikaa324/Leetcode/tree/master/0812-rotate-string) |
 | [0926-find-and-replace-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhavikaa324/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Bhavikaa324/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhavikaa324/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
