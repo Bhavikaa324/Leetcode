@@ -74,6 +74,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/Bhavikaa324/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bhavikaa324/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2737-row-with-maximum-ones](https://github.com/Bhavikaa324/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavikaa324/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -152,6 +153,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhavikaa324/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/Bhavikaa324/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bhavikaa324/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2752-sum-multiples](https://github.com/Bhavikaa324/Leetcode/tree/master/2752-sum-multiples) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Bhavikaa324/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -508,6 +510,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhavikaa324/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Database
 |  |
