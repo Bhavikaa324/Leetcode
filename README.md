@@ -156,6 +156,7 @@
 | [1642-water-bottles](https://github.com/Bhavikaa324/Leetcode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bhavikaa324/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhavikaa324/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Bhavikaa324/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Bhavikaa324/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bhavikaa324/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -204,6 +205,7 @@
 | [2058-concatenation-of-array](https://github.com/Bhavikaa324/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bhavikaa324/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhavikaa324/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Bhavikaa324/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3226-minimum-number-game](https://github.com/Bhavikaa324/Leetcode/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhavikaa324/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
