@@ -534,6 +534,7 @@
 | [1161-project-employees-i](https://github.com/Bhavikaa324/Leetcode/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/Bhavikaa324/Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Bhavikaa324/Leetcode/tree/master/1415-students-and-examinations) |
+| [1729-find-followers-count](https://github.com/Bhavikaa324/Leetcode/tree/master/1729-find-followers-count) |
 | [1801-average-time-of-process-per-machine](https://github.com/Bhavikaa324/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Bhavikaa324/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## String Matching
