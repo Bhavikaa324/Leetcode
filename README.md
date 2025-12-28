@@ -60,6 +60,7 @@
 | [1028-interval-list-intersections](https://github.com/Bhavikaa324/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhavikaa324/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Bhavikaa324/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavikaa324/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhavikaa324/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -319,6 +320,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhavikaa324/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhavikaa324/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
@@ -376,6 +378,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Bhavikaa324/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Bhavikaa324/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhavikaa324/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavikaa324/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhavikaa324/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhavikaa324/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
