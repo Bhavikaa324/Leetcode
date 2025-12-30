@@ -541,6 +541,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Bhavikaa324/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Bhavikaa324/Leetcode/tree/master/0607-sales-person) |
 | [1161-project-employees-i](https://github.com/Bhavikaa324/Leetcode/tree/master/1161-project-employees-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Bhavikaa324/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1390-average-selling-price](https://github.com/Bhavikaa324/Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Bhavikaa324/Leetcode/tree/master/1415-students-and-examinations) |
 | [1729-find-followers-count](https://github.com/Bhavikaa324/Leetcode/tree/master/1729-find-followers-count) |
