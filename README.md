@@ -543,6 +543,7 @@
 | [1161-project-employees-i](https://github.com/Bhavikaa324/Leetcode/tree/master/1161-project-employees-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Bhavikaa324/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1390-average-selling-price](https://github.com/Bhavikaa324/Leetcode/tree/master/1390-average-selling-price) |
+| [1393-capital-gainloss](https://github.com/Bhavikaa324/Leetcode/tree/master/1393-capital-gainloss) |
 | [1415-students-and-examinations](https://github.com/Bhavikaa324/Leetcode/tree/master/1415-students-and-examinations) |
 | [1729-find-followers-count](https://github.com/Bhavikaa324/Leetcode/tree/master/1729-find-followers-count) |
 | [1801-average-time-of-process-per-machine](https://github.com/Bhavikaa324/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
