@@ -56,6 +56,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhavikaa324/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0926-find-and-replace-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhavikaa324/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/Bhavikaa324/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhavikaa324/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -106,6 +107,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Bhavikaa324/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhavikaa324/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0926-find-and-replace-pattern](https://github.com/Bhavikaa324/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Bhavikaa324/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhavikaa324/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Bhavikaa324/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhavikaa324/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
