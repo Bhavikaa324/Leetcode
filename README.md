@@ -551,6 +551,7 @@
 | [1801-average-time-of-process-per-machine](https://github.com/Bhavikaa324/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Bhavikaa324/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3475-dna-pattern-recognition](https://github.com/Bhavikaa324/Leetcode/tree/master/3475-dna-pattern-recognition) |
+| [3497-analyze-subscription-conversion](https://github.com/Bhavikaa324/Leetcode/tree/master/3497-analyze-subscription-conversion) |
 ## String Matching
 |  |
 | ------- |
