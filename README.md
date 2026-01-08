@@ -552,6 +552,7 @@
 | [1415-students-and-examinations](https://github.com/Bhavikaa324/Leetcode/tree/master/1415-students-and-examinations) |
 | [1729-find-followers-count](https://github.com/Bhavikaa324/Leetcode/tree/master/1729-find-followers-count) |
 | [1801-average-time-of-process-per-machine](https://github.com/Bhavikaa324/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+| [1934-confirmation-rate](https://github.com/Bhavikaa324/Leetcode/tree/master/1934-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Bhavikaa324/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3475-dna-pattern-recognition](https://github.com/Bhavikaa324/Leetcode/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/Bhavikaa324/Leetcode/tree/master/3497-analyze-subscription-conversion) |
