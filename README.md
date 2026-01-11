@@ -550,6 +550,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Bhavikaa324/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Bhavikaa324/Leetcode/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/Bhavikaa324/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1158-market-analysis-i](https://github.com/Bhavikaa324/Leetcode/tree/master/1158-market-analysis-i) |
 | [1161-project-employees-i](https://github.com/Bhavikaa324/Leetcode/tree/master/1161-project-employees-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Bhavikaa324/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1390-average-selling-price](https://github.com/Bhavikaa324/Leetcode/tree/master/1390-average-selling-price) |
