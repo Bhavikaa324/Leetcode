@@ -560,6 +560,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Bhavikaa324/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Bhavikaa324/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Bhavikaa324/Leetcode/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Bhavikaa324/Leetcode/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/Bhavikaa324/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1158-market-analysis-i](https://github.com/Bhavikaa324/Leetcode/tree/master/1158-market-analysis-i) |
 | [1161-project-employees-i](https://github.com/Bhavikaa324/Leetcode/tree/master/1161-project-employees-i) |
