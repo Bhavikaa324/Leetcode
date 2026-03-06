@@ -201,6 +201,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Bhavikaa324/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bhavikaa324/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavikaa324/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Bhavikaa324/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Bhavikaa324/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhavikaa324/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhavikaa324/Leetcode/tree/master/2128-reverse-prefix-of-word) |
